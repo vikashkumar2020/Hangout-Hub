@@ -2,13 +2,11 @@
 A platform to find and checkout the hotels, restaurants and attractions around your location or any where in world
 
 <img src="../public/images/pic1.png"
-     alt="Markdown icon"
-     style="float: left; margin-right: 10px;" />
+     alt="Markdown icon"/>
 
 
 <img src="../public/images/pic2.png"
-     alt="Markdown icon"
-     style="float: left; margin-right: 10px;" />
+     alt="Markdown icon" />
 ## Available Scripts
 
 In the project directory, you can run:
