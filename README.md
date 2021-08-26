@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+## Hangout Hub
+A platform to find and checkout the hotels, restaurants and attractions around your location or any where in world
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="../public/images/pic1.png"
+     alt="Markdown icon"
+     style="float: left; margin-right: 10px;" />
 
+
+<img src="../public/images/pic2.png"
+     alt="Markdown icon"
+     style="float: left; margin-right: 10px;" />
 ## Available Scripts
 
 In the project directory, you can run:
