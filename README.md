@@ -1,11 +1,11 @@
 ## Hangout Hub
 A platform to find and checkout the hotels, restaurants and attractions around your location or any where in world
 
-<img src="..main/public/images/pic1.png"
+<img src="./public/images/pic1.png"
      alt="Markdown icon"/>
 
 
-<img src="..main/public/images/pic2.png"
+<img src="./public/images/pic2.png"
      alt="Markdown icon" />
 ## Available Scripts
 
